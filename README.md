@@ -1,6 +1,6 @@
+![Einsteinsweater](https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png)
 # ratlife2.
-<html>
-	<link href='https://fonts.googleapis.com/css?family=Short Stack' rel='stylesheet'>
+
 	
 	<style>
 		body {
@@ -62,7 +62,7 @@
 		<p>I made this site because the world deserves to know who I am. You see, I am no ordinary rat. I am like a cuddly dumpling full of love.</p>
 	</div>
 	<div>
-		<!--insert image-->
+		<img src="(https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png)"/>
 		<h3>This is Me.</h3>
 		
 		<p>As you can see, I am quite handsome.<br>
