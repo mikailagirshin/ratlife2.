@@ -1,7 +1,7 @@
 # ratlife2.
 <html>
 	<link href='https://fonts.googleapis.com/css?family=Short Stack' rel='stylesheet'>
-
+	
 	<style>
 		body {
 			background-color: gold;
